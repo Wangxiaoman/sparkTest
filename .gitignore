@@ -6,7 +6,7 @@ target/
 lib/
 temp/
 bin/
-mvnw*
+mvnw/*
 
 **/out/**
 
@@ -19,8 +19,6 @@ mvnw*
 .idea/.*
 /WebContent
 /bin
-/target/
-/target/
 /target/
 /out/**
 out/
